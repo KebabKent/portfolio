@@ -7,6 +7,6 @@ title: Hem
 
 Jag är civilingenjörsstudent i Informationsteknik på KTH. Intresserad av mjukvaruutveckling och programmering i Python, Javasctipt, Html och Java. Tidigare praktik hos Saab
 
-[Mina projekt](projects.md)  
-[Om mig](about.md)  
-[Kontakt](contact.md)
+## [Mina projekt](projects.md)  
+## [Om mig](about.md)  
+## [Kontakt](contact.md)
