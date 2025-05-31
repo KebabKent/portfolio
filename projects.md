@@ -20,4 +20,12 @@ Databas hantering med SQL och JDBC.
 - Java, PostgreSQL
 - Projektarbete med Isak
 - [GitHub-repo](https://github.com/KebabKent/Project-IV1351-HT-24-Nikodemus-and-Isak-)
-- 
+
+---
+
+## II1305: Projekt i Informationsteknik
+Smartkalender webapplication, se mer i länk nedan.
+
+- Typescript, Html, React och Vite 
+- Projektarbete med grupp Autoencoder
+- [Projekthemsida](https://sites.google.com/view/smart-calender/team)
