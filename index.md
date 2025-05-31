@@ -11,6 +11,5 @@ Jag är civilingenjörsstudent i Informationsteknik på KTH. Intresserad av mjuk
 ## [Om mig](about.md)  
 ## [Kontakt](contact.md)
 
-{% include about.html %}
-{% include projects.html %}
-{% include contact.html %}
+{% include about.md %}
+
