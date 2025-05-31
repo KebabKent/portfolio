@@ -28,4 +28,4 @@ Smartkalender webapplication, se mer i länk nedan.
 
 - Typescript, Html, React och Vite 
 - Projektarbete med grupp Autoencoder
-- [Projekthemsida](https://sites.google.com/view/smart-calender/team)
+- [Projekthemsida](https://sites.google.com/view/smart-calender/)
