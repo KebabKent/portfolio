@@ -10,3 +10,5 @@ Jag heter Nikodemus Pellerin Nilsson Ohm och studerar Informationsteknik på KTH
 - Java, Python, Html och Javascript
 - Git, Linux
 - Designmönster, Testning
+
+Jag bor i en villa i Älta, Nacka, med min familj. Mina fritidsintresseen är framförallt att spela musik och gitarr och att åka skidor på vintern. Jag tar gärna en promenad i skogen eller sitter med datorn och fixar.
