@@ -9,7 +9,7 @@ Jag är civilingenjörsstudent i Informationsteknik på KTH. Intresserad av mjuk
 
 ## [Mina projekt, tryck här](projects.md)  
 
-# Om mig
+## Om mig
 
 Jag heter Nikodemus Pellerin Nilsson Ohm och studerar Informationsteknik på KTH. Jag har praktiserat hos Saab och har erfarenhet av utveckling i flera programmeringsspråk och verktyg, inklusive:
 
@@ -21,7 +21,7 @@ Jag heter Nikodemus Pellerin Nilsson Ohm och studerar Informationsteknik på KTH
 
 Jag bor i en villa i Älta, Nacka, med min familj. Mina fritidsintresseen är framförallt att spela musik och gitarr och att åka skidor på vintern. Jag tar gärna en promenad i skogen eller sitter med datorn och fixar.
 
-## Mina utbildningar
+### Mina utbildningar
 
 - Treårig gymnasie med inriktning teknik - 2019 till 2022
 - Fjärde år med inriktning mjukvaruutveckling - 2022 till 2023
@@ -32,10 +32,10 @@ layout: default
 title: Kontakt
 ---
 
-# Kontakt
+## Kontakt
 
-## Skolmejl: nikno@kth.se
-## [GitHub](https://github.com/KebabKent/)  
-## [LinkedIn](https://www.linkedin.com/in/nikodemus-ohm-a1656824b/)
+### Skolmejl: nikno@kth.se
+### [GitHub](https://github.com/KebabKent/)  
+### [LinkedIn](https://www.linkedin.com/in/nikodemus-ohm-a1656824b/)
 
 Om ni vill komma i kontakt med mig på telefon så skicka en blänkare till mig på mejlen.
