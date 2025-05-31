@@ -27,11 +27,6 @@ Jag bor i en villa i Älta, Nacka, med min familj. Mina fritidsintresseen är fr
 - Fjärde år med inriktning mjukvaruutveckling - 2022 till 2023
 - KTH civilingenjör Informationsteknik - 2023 - pågående
 
----
-layout: default
-title: Kontakt
----
-
 ## Kontakt
 
 ### Skolmejl: nikno@kth.se
